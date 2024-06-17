@@ -3,6 +3,18 @@ venv
 .env
 env
 
+.databricks 
+
+.venv 
+
+.vscode 
+
+jaffle-shop/target/ 
+
+jaffle-shop/dbt_packages/ 
+
+jaffle-shop/logs/ 
+
 target/
 dbt_packages/
 logs/
